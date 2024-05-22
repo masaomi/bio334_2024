@@ -3,7 +3,7 @@
 ## 22-24, May, 2024
 
 Masaomi Hatakeyama
-- https://gitlab.uzh.ch/masaomi.hatakeyama/bio334_2024
+- https://github.com/masaomi/bio334_2024
 
 ## How to download/update this documents
 
