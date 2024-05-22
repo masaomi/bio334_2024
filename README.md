@@ -9,7 +9,7 @@ Masaomi Hatakeyama
 
 Download
 ```bash
-$ git clone https://gitlab.uzh.ch/masaomi.hatakeyama/bio334_2024
+$ git clone https://github.com/masaomi/bio334_2024
 ```
 
 Updating
