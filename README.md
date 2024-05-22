@@ -29,8 +29,8 @@ Directories
 **Day1** | &nbsp; 
 -------|-------
 16.00- | **Quick Python review** [bio334_day1_part1.ipynb](jupyter_notebooks/bio334_day1_part1.ipynb)
-       | **Two sequences comparison** [bio334_day1_part2.ipynb](jupyter_notebooks/bio334_day1_part2.ipynb)
-       | **Nucleotide diversity1** [bio334_day1_part3.ipynb](jupyter_notebooks/bio334_day1_part3.ipynb)
+　     | **Two sequences comparison** [bio334_day1_part2.ipynb](jupyter_notebooks/bio334_day1_part2.ipynb)
+　     | **Nucleotide diversity1** [bio334_day1_part3.ipynb](jupyter_notebooks/bio334_day1_part3.ipynb)
  &nbsp;| &nbsp;
 **Day2** | &nbsp; 
 9.00-12.00 | **Nucleotide diversity2**
