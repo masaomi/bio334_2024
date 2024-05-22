@@ -21,7 +21,7 @@ Directories
 - data/: input data used in some exercises
 - examples/: source code of examples shown in the lecture
 - jupyter_notebooks/: jupyter notebook files
-- templates/: incompleted source code of exercises (you should fill in and complete it)
+- skeletons/: incompleted source code of exercises (you should fill in and complete it)
 - simulation/: source code used in an advanced exercise of day2
 
 ## Table of Content (Plan)
