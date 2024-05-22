@@ -1,6 +1,6 @@
 ## BIO334 Practical Bioinformatics
 
-## 21-23, May, 2024
+## 22-24, May, 2024
 
 Masaomi Hatakeyama
 - https://gitlab.uzh.ch/masaomi.hatakeyama/bio334_2024
