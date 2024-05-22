@@ -28,9 +28,9 @@ Directories
 
 **Day1** | &nbsp; 
 -------|-------
-13.00- | **Quick Python review** [bio334_day1_part1.ipynb](jupyter_notebooks/bio334_day1_part1.ipynb)
-14.00- | **Two sequences comparison** [bio334_day1_part2.ipynb](jupyter_notebooks/bio334_day1_part2.ipynb)
-15.00- | **Nucleotide diversity1** [bio334_day1_part3.ipynb](jupyter_notebooks/bio334_day1_part3.ipynb)
+16.00- | **Quick Python review** [bio334_day1_part1.ipynb](jupyter_notebooks/bio334_day1_part1.ipynb)
+       | **Two sequences comparison** [bio334_day1_part2.ipynb](jupyter_notebooks/bio334_day1_part2.ipynb)
+       | **Nucleotide diversity1** [bio334_day1_part3.ipynb](jupyter_notebooks/bio334_day1_part3.ipynb)
  &nbsp;| &nbsp;
 **Day2** | &nbsp; 
 9.00-12.00 | **Nucleotide diversity2** [bio334_day2_part1.ipynb](jupyter_notebooks/bio334_day2_part1.ipynb) [bio334_day2_part2.ipynb](jupyter_notebooks/bio334_day2_part2.ipynb)
@@ -38,14 +38,12 @@ Directories
 15.00-17.00 | **Tajima's D calculation2** [bio334_day2_part5.ipynb](jupyter_notebooks/bio334_day2_part5.ipynb)
  &nbsp;| &nbsp;
 **Day3** | &nbsp; 
-13.00-17.00 | **Advanced exercise** [bio334_day3.ipynb](jupyter_notebooks/bio334_day3.ipynb)
-
-## Exercise Checker
-- https://fgcz-course2.bfabric.org/
+9.00-12.00 | **Advanced exercise** [bio334_day3.ipynb](jupyter_notebooks/bio334_day3.ipynb)
 
 ## Exercises
-
-Coming soon...
+- Day1 Part1: https://gist.github.com/masaomi/75ac75aa49d3603697e24864b2345d4d
+- Day1 Part2: https://gist.github.com/masaomi/b2f52f4723757d5fd1b93ed422f81923
+- Day1 Part3: https://gist.github.com/masaomi/857f8257e4ec9d4fb80557a5890f22a3
 
 ## Recommended websites
 
