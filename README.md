@@ -35,10 +35,11 @@ Directories
 **Day2** | &nbsp; 
 9.00-12.00 | **Nucleotide diversity2** [bio334_day2_part1.ipynb](jupyter_notebooks/bio334_day2_part1.ipynb) [bio334_day2_part2.ipynb](jupyter_notebooks/bio334_day2_part2.ipynb)
 13.00-15.00 | **Tajima's D calculation1**
-15.00-17.00 | **Tajima's D calculation2**
+15.00-17.00 | **Tajima's D calculation2** [bio334_day2_part5.ipynb](jupyter_notebooks/bio334_day2_part5.ipynb)
  &nbsp;| &nbsp;
 **Day3** | &nbsp; 
-9.00-12.00 | **Advanced exercise**
+9.00-12.00 | **Advanced exercise** [bio334_day3.ipynb](jupyter_notebooks/bio334_day3.ipynb)
+
 
 ## Exercises
 - Day1 Part1: https://gist.github.com/masaomi/75ac75aa49d3603697e24864b2345d4d
