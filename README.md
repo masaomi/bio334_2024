@@ -49,6 +49,8 @@ Directories
 - Day2 Part3: https://gist.github.com/masaomi/c5a11879a9deefccd40c57c1ba975b3a
 - Day2 Part4: https://gist.github.com/masaomi/0f51c4a379a0b914c86c84f480e961df
 - Day2 Part5: https://gist.github.com/masaomi/29c3325edd802eadb61a213140f33c93
+- Day3 Final: https://gist.github.com/masaomi/1397a32c4b870f7ab7e92f479770788d
+- Final exam from 2023: https://gist.github.com/masaomi/080c58eb62c40ba8b71efd9f4b45b24b
 
 ## Recommended websites
 
