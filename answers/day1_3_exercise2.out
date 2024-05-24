@@ -1,0 +1,5 @@
+0 ATGC 1 ATAT	same 2 diff 2
+0 ATGC 2 ATGC	same 4 diff 0
+1 ATAT 2 ATGC	same 2 diff 2
+total same = 8
+total diff = 4

@@ -1,0 +1,6 @@
+Sequences = ['ATGC', 'ATAT', 'ATGC']
+Total differences = 4
+nC2 = 3.0
+Length of sequence = 4
+Mean pairwise difference PI = 1.3333333333333333
+pi = PI/(Length of sequence) = 0.3333333333333333
