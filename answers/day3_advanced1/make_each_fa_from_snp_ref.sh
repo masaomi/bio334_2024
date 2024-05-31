@@ -1,0 +1,6 @@
+python make_multialigned_fa_from_snp_ref.py Athaliana_SNPs/quality_variant_108_TAIR10_Chr1.txt > Ath_108.fa
+python make_multialigned_fa_from_snp_ref.py Athaliana_SNPs/quality_variant_139_TAIR10_Chr1.txt > Ath_139.fa
+python make_multialigned_fa_from_snp_ref.py Athaliana_SNPs/quality_variant_159_TAIR10_Chr1.txt > Ath_159.fa
+python make_multialigned_fa_from_snp_ref.py Athaliana_SNPs/quality_variant_265_TAIR10_Chr1.txt > Ath_265.fa
+python make_multialigned_fa_from_snp_ref.py Athaliana_SNPs/quality_variant_350_TAIR10_Chr1.txt > Ath_350.fa
+
